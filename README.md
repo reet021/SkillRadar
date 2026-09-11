@@ -54,5 +54,34 @@ PostgreSQL Analysis
 Career Skill Profiles
        ↓
 Visualizations
+
+## 📊 Results
+
+### Top In-Demand Skills
+
+Communication, Excel, Database, SQL, Testing, Git, and Python are among the most frequently identified skills in the dataset.
+
+### Career-Specific Findings
+
+- **Business Analyst:** Excel, Business Analyst, Communication, Agile
+- **Cloud:** Database, Communication, AWS, Excel, Git
+- **Data Scientist:** Data Science, Python, Database, Machine Learning, SQL
+- **HR:** Communication, Excel, HR, Training
+- **Software Developer:** Database, Communication, Testing, C, Excel, Agile
+- **UI/UX:** UI/UX, UX Design, Communication, User Experience, CSS/Figma
+
+## 📊 Visualizations
+
+### Top 15 In-Demand Skills
+
+![Top Skills](data/charts/top_15_skills.png)
+
+### Skills Across Career Categories
+
+![Skill Category Heatmap](data/charts/skill_category_heatmap.png)
+
+### Skill Demand by Category (%)
+
+![Percentage Heatmap](data/charts/skill_category_percentage_heatmap.png)
        ↓
 Career Insights
