@@ -54,7 +54,7 @@ PostgreSQL Analysis
 Career Skill Profiles
        ↓
 Visualizations
-
+```
 ## 📊 Results
 
 ### Top In-Demand Skills
