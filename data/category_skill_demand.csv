@@ -1,0 +1,306 @@
+Category,skills,job_count,total_jobs,percentage
+Business Analyst,Excel,24,28,85.71
+Business Analyst,Business Analyst,20,28,71.43
+Business Analyst,Communication,18,28,64.29
+Business Analyst,Agile,11,28,39.29
+Business Analyst,Training,11,28,39.29
+Business Analyst,Business Analysis,9,28,32.14
+Business Analyst,Testing,9,28,32.14
+Business Analyst,UAT,9,28,32.14
+Business Analyst,Git,7,28,25.0
+Business Analyst,Microsoft Office,7,28,25.0
+Business Analyst,User Stories,7,28,25.0
+Business Analyst,Project Management,6,28,21.43
+Business Analyst,Database,5,28,17.86
+Business Analyst,Business Intelligence,4,28,14.29
+Business Analyst,JIRA,4,28,14.29
+Business Analyst,Scrum,4,28,14.29
+Business Analyst,Acceptance Criteria,3,28,10.71
+Business Analyst,Data Visualization,3,28,10.71
+Business Analyst,Process Improvement,3,28,10.71
+Business Analyst,Quality Assurance,3,28,10.71
+Business Analyst,R,3,28,10.71
+Business Analyst,User Experience,3,28,10.71
+Business Analyst,Artificial Intelligence,2,28,7.14
+Business Analyst,Big Data,2,28,7.14
+Business Analyst,Data Science,2,28,7.14
+Business Analyst,HTML,2,28,7.14
+Business Analyst,Human Resources,2,28,7.14
+Business Analyst,Problem Solving,2,28,7.14
+Business Analyst,Requirements Gathering,2,28,7.14
+Business Analyst,SQL,2,28,7.14
+Business Analyst,Statistics,2,28,7.14
+Business Analyst,Tableau,2,28,7.14
+Business Analyst,Azure,1,28,3.57
+Business Analyst,CSS,1,28,3.57
+Business Analyst,Data Analysis,1,28,3.57
+Business Analyst,DevOps,1,28,3.57
+Business Analyst,ETL,1,28,3.57
+Business Analyst,Figma,1,28,3.57
+Business Analyst,HR,1,28,3.57
+Business Analyst,Onboarding,1,28,3.57
+Business Analyst,Process Mapping,1,28,3.57
+Business Analyst,Python,1,28,3.57
+Business Analyst,Requirements Analysis,1,28,3.57
+Business Analyst,Requirements Management,1,28,3.57
+Business Analyst,Stakeholder Engagement,1,28,3.57
+Business Analyst,Stakeholder Management,1,28,3.57
+Cloud,Database,11,20,55.0
+Cloud,Communication,10,20,50.0
+Cloud,AWS,9,20,45.0
+Cloud,Excel,9,20,45.0
+Cloud,Git,8,20,40.0
+Cloud,Azure,7,20,35.0
+Cloud,Testing,7,20,35.0
+Cloud,CI/CD,6,20,30.0
+Cloud,DevOps,6,20,30.0
+Cloud,Docker,6,20,30.0
+Cloud,Agile,5,20,25.0
+Cloud,Java,5,20,25.0
+Cloud,Kubernetes,5,20,25.0
+Cloud,Python,5,20,25.0
+Cloud,SQL,5,20,25.0
+Cloud,Training,5,20,25.0
+Cloud,Artificial Intelligence,3,20,15.0
+Cloud,C,3,20,15.0
+Cloud,JavaScript,3,20,15.0
+Cloud,Linux,3,20,15.0
+Cloud,Machine Learning,3,20,15.0
+Cloud,Scrum,3,20,15.0
+Cloud,Terraform,3,20,15.0
+Cloud,C++,2,20,10.0
+Cloud,Cloud Computing,2,20,10.0
+Cloud,GitHub,2,20,10.0
+Cloud,Kafka,2,20,10.0
+Cloud,MongoDB,2,20,10.0
+Cloud,MySQL,2,20,10.0
+Cloud,TypeScript,2,20,10.0
+Cloud,Big Data,1,20,5.0
+Cloud,Business Analyst,1,20,5.0
+Cloud,C#,1,20,5.0
+Cloud,CSS,1,20,5.0
+Cloud,Data Engineering,1,20,5.0
+Cloud,Data Science,1,20,5.0
+Cloud,Figma,1,20,5.0
+Cloud,GCP,1,20,5.0
+Cloud,HTML,1,20,5.0
+Cloud,Hadoop,1,20,5.0
+Cloud,JIRA,1,20,5.0
+Cloud,Microsoft Office,1,20,5.0
+Cloud,PHP,1,20,5.0
+Cloud,PostgreSQL,1,20,5.0
+Cloud,Process Improvement,1,20,5.0
+Cloud,Project Management,1,20,5.0
+Cloud,Redis,1,20,5.0
+Cloud,Ruby,1,20,5.0
+Cloud,Spark,1,20,5.0
+Cloud,UAT,1,20,5.0
+Cloud,UI Design,1,20,5.0
+Cloud,UI/UX,1,20,5.0
+Cloud,User Experience,1,20,5.0
+Cloud,User Interface,1,20,5.0
+Data Scientist,Data Science,42,54,77.78
+Data Scientist,Python,40,54,74.07
+Data Scientist,Database,33,54,61.11
+Data Scientist,Machine Learning,33,54,61.11
+Data Scientist,SQL,32,54,59.26
+Data Scientist,Communication,30,54,55.56
+Data Scientist,Statistics,25,54,46.3
+Data Scientist,Artificial Intelligence,23,54,42.59
+Data Scientist,Excel,22,54,40.74
+Data Scientist,Data Analysis,21,54,38.89
+Data Scientist,R,17,54,31.48
+Data Scientist,Git,15,54,27.78
+Data Scientist,AWS,14,54,25.93
+Data Scientist,UAT,14,54,25.93
+Data Scientist,Data Visualization,13,54,24.07
+Data Scientist,Training,12,54,22.22
+Data Scientist,Agile,11,54,20.37
+Data Scientist,Azure,11,54,20.37
+Data Scientist,Spark,11,54,20.37
+Data Scientist,Java,10,54,18.52
+Data Scientist,Tableau,10,54,18.52
+Data Scientist,TensorFlow,10,54,18.52
+Data Scientist,Testing,10,54,18.52
+Data Scientist,C,8,54,14.81
+Data Scientist,NLP,8,54,14.81
+Data Scientist,Pandas,8,54,14.81
+Data Scientist,ETL,7,54,12.96
+Data Scientist,Project Management,7,54,12.96
+Data Scientist,PyTorch,7,54,12.96
+Data Scientist,Scikit-learn,7,54,12.96
+Data Scientist,Big Data,6,54,11.11
+Data Scientist,Data Engineering,6,54,11.11
+Data Scientist,Data Mining,6,54,11.11
+Data Scientist,Hadoop,6,54,11.11
+Data Scientist,Problem Solving,6,54,11.11
+Data Scientist,Business Intelligence,5,54,9.26
+Data Scientist,Deep Learning,5,54,9.26
+Data Scientist,JavaScript,5,54,9.26
+Data Scientist,Linux,4,54,7.41
+Data Scientist,MongoDB,4,54,7.41
+Data Scientist,NumPy,4,54,7.41
+Data Scientist,Quality Assurance,4,54,7.41
+Data Scientist,C++,3,54,5.56
+Data Scientist,Cloud Computing,3,54,5.56
+Data Scientist,Docker,3,54,5.56
+Data Scientist,Kafka,3,54,5.56
+Data Scientist,Kubernetes,3,54,5.56
+Data Scientist,MySQL,3,54,5.56
+Data Scientist,Onboarding,3,54,5.56
+Data Scientist,Power BI,3,54,5.56
+Data Scientist,Scrum,3,54,5.56
+Data Scientist,Stakeholder Management,3,54,5.56
+Data Scientist,Business Analyst,2,54,3.7
+Data Scientist,Computer Vision,2,54,3.7
+Data Scientist,GCP,2,54,3.7
+Data Scientist,Human Resources,2,54,3.7
+Data Scientist,Microsoft Office,2,54,3.7
+Data Scientist,Process Mapping,2,54,3.7
+Data Scientist,Redis,2,54,3.7
+Data Scientist,SQL Server,2,54,3.7
+Data Scientist,Acceptance Criteria,1,54,1.85
+Data Scientist,Business Analysis,1,54,1.85
+Data Scientist,C#,1,54,1.85
+Data Scientist,CI/CD,1,54,1.85
+Data Scientist,CSS,1,54,1.85
+Data Scientist,DevOps,1,54,1.85
+Data Scientist,GitHub,1,54,1.85
+Data Scientist,HR,1,54,1.85
+Data Scientist,HTML,1,54,1.85
+Data Scientist,Neural Networks,1,54,1.85
+Data Scientist,PostgreSQL,1,54,1.85
+Data Scientist,Process Improvement,1,54,1.85
+Data Scientist,Prototyping,1,54,1.85
+Data Scientist,Recruitment,1,54,1.85
+Data Scientist,UI/UX,1,54,1.85
+Data Scientist,User Experience,1,54,1.85
+Data Scientist,User Interface,1,54,1.85
+Data Scientist,User Stories,1,54,1.85
+HR,Communication,18,22,81.82
+HR,Excel,15,22,68.18
+HR,HR,15,22,68.18
+HR,Training,9,22,40.91
+HR,Human Resources,7,22,31.82
+HR,Performance Management,7,22,31.82
+HR,UAT,6,22,27.27
+HR,Employee Relations,5,22,22.73
+HR,Git,5,22,22.73
+HR,Recruitment,5,22,22.73
+HR,AWS,4,22,18.18
+HR,Onboarding,4,22,18.18
+HR,Payroll,4,22,18.18
+HR,Talent Acquisition,4,22,18.18
+HR,Agile,3,22,13.64
+HR,Azure,2,22,9.09
+HR,C,2,22,9.09
+HR,Database,2,22,9.09
+HR,DevOps,2,22,9.09
+HR,JIRA,2,22,9.09
+HR,Problem Solving,2,22,9.09
+HR,Project Management,2,22,9.09
+HR,Scrum,2,22,9.09
+HR,Artificial Intelligence,1,22,4.55
+HR,CSS,1,22,4.55
+HR,Data Analysis,1,22,4.55
+HR,Docker,1,22,4.55
+HR,Figma,1,22,4.55
+HR,HTML,1,22,4.55
+HR,Java,1,22,4.55
+HR,JavaScript,1,22,4.55
+HR,Linux,1,22,4.55
+HR,MySQL,1,22,4.55
+HR,PHP,1,22,4.55
+HR,SQL,1,22,4.55
+HR,Testing,1,22,4.55
+HR,UI Design,1,22,4.55
+HR,UI/UX,1,22,4.55
+HR,User Experience,1,22,4.55
+HR,User Interface,1,22,4.55
+Software Developer,Database,44,82,53.66
+Software Developer,Communication,40,82,48.78
+Software Developer,Testing,37,82,45.12
+Software Developer,C,34,82,41.46
+Software Developer,Excel,34,82,41.46
+Software Developer,Agile,31,82,37.8
+Software Developer,Java,30,82,36.59
+Software Developer,SQL,30,82,36.59
+Software Developer,Git,28,82,34.15
+Software Developer,AWS,20,82,24.39
+Software Developer,JavaScript,19,82,23.17
+Software Developer,CI/CD,17,82,20.73
+Software Developer,Python,17,82,20.73
+Software Developer,UAT,16,82,19.51
+Software Developer,C#,15,82,18.29
+Software Developer,DevOps,15,82,18.29
+Software Developer,Azure,14,82,17.07
+Software Developer,C++,14,82,17.07
+Software Developer,Artificial Intelligence,12,82,14.63
+Software Developer,Kubernetes,12,82,14.63
+Software Developer,Linux,12,82,14.63
+Software Developer,Docker,11,82,13.41
+Software Developer,Scrum,11,82,13.41
+Software Developer,Training,11,82,13.41
+Software Developer,GCP,9,82,10.98
+Software Developer,TypeScript,9,82,10.98
+Software Developer,MySQL,8,82,9.76
+Software Developer,HTML,7,82,8.54
+Software Developer,Machine Learning,7,82,8.54
+Software Developer,Ruby,6,82,7.32
+Software Developer,CSS,5,82,6.1
+Software Developer,GitHub,5,82,6.1
+Software Developer,Problem Solving,5,82,6.1
+Software Developer,Project Management,5,82,6.1
+Software Developer,Quality Assurance,5,82,6.1
+Software Developer,Redis,5,82,6.1
+Software Developer,PHP,4,82,4.88
+Software Developer,PostgreSQL,4,82,4.88
+Software Developer,Terraform,4,82,4.88
+Software Developer,User Experience,4,82,4.88
+Software Developer,ETL,3,82,3.66
+Software Developer,JIRA,3,82,3.66
+Software Developer,Kafka,3,82,3.66
+Software Developer,Process Improvement,3,82,3.66
+Software Developer,R,3,82,3.66
+Software Developer,SQL Server,3,82,3.66
+Software Developer,UI/UX,3,82,3.66
+Software Developer,UX Design,3,82,3.66
+Software Developer,Business Analyst,2,82,2.44
+Software Developer,Computer Vision,2,82,2.44
+Software Developer,MongoDB,2,82,2.44
+Software Developer,Prototyping,2,82,2.44
+Software Developer,Requirements Gathering,2,82,2.44
+Software Developer,User Stories,2,82,2.44
+Software Developer,Big Data,1,82,1.22
+Software Developer,Data Engineering,1,82,1.22
+Software Developer,Data Science,1,82,1.22
+Software Developer,Deep Learning,1,82,1.22
+Software Developer,HR,1,82,1.22
+Software Developer,Hadoop,1,82,1.22
+Software Developer,NLP,1,82,1.22
+Software Developer,Onboarding,1,82,1.22
+Software Developer,Oracle,1,82,1.22
+Software Developer,Recruitment,1,82,1.22
+Software Developer,Spark,1,82,1.22
+Software Developer,Statistics,1,82,1.22
+Software Developer,TensorFlow,1,82,1.22
+Software Developer,User Interface,1,82,1.22
+UI/UX,UI/UX,5,5,100.0
+UI/UX,UX Design,5,5,100.0
+UI/UX,Communication,4,5,80.0
+UI/UX,User Experience,4,5,80.0
+UI/UX,User Interface,4,5,80.0
+UI/UX,CSS,3,5,60.0
+UI/UX,Figma,3,5,60.0
+UI/UX,Git,3,5,60.0
+UI/UX,HTML,3,5,60.0
+UI/UX,Testing,3,5,60.0
+UI/UX,Adobe XD,2,5,40.0
+UI/UX,Excel,2,5,40.0
+UI/UX,Prototyping,2,5,40.0
+UI/UX,UAT,2,5,40.0
+UI/UX,Usability Testing,2,5,40.0
+UI/UX,Agile,1,5,20.0
+UI/UX,Java,1,5,20.0
+UI/UX,JavaScript,1,5,20.0
+UI/UX,User Stories,1,5,20.0

@@ -1,0 +1,61 @@
+Category,skills,job_count,category_jobs,demand_percentage,rank
+Business Analyst,Excel,24,207,11.59,1.0
+Business Analyst,Business Analyst,20,207,9.66,2.0
+Business Analyst,Communication,18,207,8.7,3.0
+Business Analyst,Agile,11,207,5.31,4.0
+Business Analyst,Training,11,207,5.31,5.0
+Business Analyst,Business Analysis,9,207,4.35,6.0
+Business Analyst,Testing,9,207,4.35,7.0
+Business Analyst,UAT,9,207,4.35,8.0
+Business Analyst,Git,7,207,3.38,9.0
+Business Analyst,Microsoft Office,7,207,3.38,10.0
+Cloud,Database,11,168,6.55,1.0
+Cloud,Communication,10,168,5.95,2.0
+Cloud,AWS,9,168,5.36,3.0
+Cloud,Excel,9,168,5.36,4.0
+Cloud,Git,8,168,4.76,5.0
+Cloud,Azure,7,168,4.17,6.0
+Cloud,Testing,7,168,4.17,7.0
+Cloud,CI/CD,6,168,3.57,8.0
+Cloud,DevOps,6,168,3.57,9.0
+Cloud,Docker,6,168,3.57,10.0
+Data Scientist,Data Science,42,636,6.6,1.0
+Data Scientist,Python,40,636,6.29,2.0
+Data Scientist,Database,33,636,5.19,3.0
+Data Scientist,Machine Learning,33,636,5.19,4.0
+Data Scientist,SQL,32,636,5.03,5.0
+Data Scientist,Communication,30,636,4.72,6.0
+Data Scientist,Statistics,25,636,3.93,7.0
+Data Scientist,Artificial Intelligence,23,636,3.62,8.0
+Data Scientist,Excel,22,636,3.46,9.0
+Data Scientist,Data Analysis,21,636,3.3,10.0
+HR,Communication,18,144,12.5,1.0
+HR,Excel,15,144,10.42,2.0
+HR,HR,15,144,10.42,3.0
+HR,Training,9,144,6.25,4.0
+HR,Human Resources,7,144,4.86,5.0
+HR,Performance Management,7,144,4.86,6.0
+HR,UAT,6,144,4.17,7.0
+HR,Employee Relations,5,144,3.47,8.0
+HR,Git,5,144,3.47,9.0
+HR,Recruitment,5,144,3.47,10.0
+Software Developer,Database,44,666,6.61,1.0
+Software Developer,Communication,40,666,6.01,2.0
+Software Developer,Testing,37,666,5.56,3.0
+Software Developer,C,34,666,5.11,4.0
+Software Developer,Excel,34,666,5.11,5.0
+Software Developer,Agile,31,666,4.65,6.0
+Software Developer,Java,30,666,4.5,7.0
+Software Developer,SQL,30,666,4.5,8.0
+Software Developer,Git,28,666,4.2,9.0
+Software Developer,AWS,20,666,3.0,10.0
+UI/UX,UI/UX,5,51,9.8,1.0
+UI/UX,UX Design,5,51,9.8,2.0
+UI/UX,Communication,4,51,7.84,3.0
+UI/UX,User Experience,4,51,7.84,4.0
+UI/UX,User Interface,4,51,7.84,5.0
+UI/UX,CSS,3,51,5.88,6.0
+UI/UX,Figma,3,51,5.88,7.0
+UI/UX,Git,3,51,5.88,8.0
+UI/UX,HTML,3,51,5.88,9.0
+UI/UX,Testing,3,51,5.88,10.0
