@@ -54,6 +54,8 @@ PostgreSQL Analysis
 Career Skill Profiles
        ↓
 Visualizations
+       ↓
+Career Insights
 ```
 ## 📊 Results
 
@@ -83,5 +85,4 @@ Communication, Excel, Database, SQL, Testing, Git, and Python are among the most
 ### Skill Demand by Category (%)
 
 ![Percentage Heatmap](data/charts/skill_category_percentage_heatmap.png)
-       ↓
-Career Insights
+
